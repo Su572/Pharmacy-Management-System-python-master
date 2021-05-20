@@ -1,10 +1,12 @@
-# Pharmacy-Management-System-python
+# Pharmacy-Management-System
+Based on Python Programming Language
 # An Example of Real World Application of Python Language 
+It consists of Python Scripts, Tk GUI toolkit, CUID & Database system files.
 Pharmacy management system
 Serves many purposes, including safe and effective dispensing of pharmaceutical drugs, a user interface, data entry, retention and security limits to protect patient's health.
 The purpose of this project is to manage an inventory required for the Pharmacy to maintain their business through the system rather than recording manually, to avoid loss and to improve the performance & efficiency of Pharmacy shops management.
 Project is based on real world application of Python language.
-It consists of Python Scripts, Tk GUI toolkit, CUID & Database system files.
+
 Some of the utilities and applications are To provide easily accessibility of stock report.
 To recognise name, cost, quantity, discount, category, expire date of the medicines quickly.
 To increase productivity and to maximise profit.
